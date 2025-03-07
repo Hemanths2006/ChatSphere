@@ -1,3 +1,6 @@
+live website https://hemanths2006.github.io/ChatSphere/
+
+
 ChatSphere
 
 ChatSphere is a modern, real-time chat web application that enables seamless communication using Firebase Realtime Database. It features a sleek, animated UI, responsive design, and dynamic message handling.
